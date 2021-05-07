@@ -1,0 +1,230 @@
+@media(min-width:320px){
+     
+    
+}
+ 
+@media(min-width:425px){
+    
+      
+} 
+@media(min-width:768px){ 
+    .navbar-nav li a{
+        text-transform: capitalize;
+        font-size: 15px;
+        color: #fff;
+        margin: 0 16px;
+    }
+    .logo{
+        margin-top: 10px;
+    }
+    .bg-text{
+        margin-top: 30%;
+    }
+    .bg-text h3{
+        font-size: 30px; 
+     }
+    .bg-text p{
+        font-size: 15px; 
+        margin: 0 15% 0 15%;
+     }  
+    .gellary-text p {
+        font-size: 13px; 
+    }
+    .gallery-heading h3{
+        padding: 40px 0;
+    }
+    .gellary-text  h3{
+        font-size: 22px;
+    }
+    .gellary-text h5 {
+        font-size: 13px;  
+    }
+    .book{
+        margin-top: 10px;
+    }
+
+    .search{ 
+       width: 300px;
+       height: 320px; 
+       margin-top: 20%;  
+   }
+   .search h3{
+    padding-top: 4%;
+}
+    .search form input{
+        width: 250px;
+        height: 30px; 
+        margin-top: 2%;
+   } 
+   .submit{
+    margin-top: 5%; 
+    width: 80%;
+    padding: 5px 0;
+}
+#blog{ 
+    margin-top: 6%;  
+ }
+ .blog-heading p{
+  
+    margin: 0 10% 0 10%; 
+}
+ .activity-text h5{ 
+    font-size: 22px; 
+}
+.activity-text{  
+    margin-top: -49%;
+ 
+}
+.deal-heading p{
+    font-size: 15px;
+}.deal-text  p {
+  font-size: 15px;
+}
+.luxury-heading h3 {
+    margin-top: -50px;
+    font-size: 90px;
+    
+}
+.luxury-heading p {
+    font-size: 40px;
+    
+}
+.find { 
+    padding: 30px 14px; 
+}
+.form-inline{
+    margin-left: -10px!important;
+}
+.form-inline input{
+    width: 110px!important;
+}
+.icon-list li i{
+    font-size: 27px;
+}
+.contact-text p {
+    font-size: 13px;
+}
+} 
+@media(min-width:992px){
+    .navbar-nav li a{ 
+        font-size: 20px; 
+    }
+    .bg-text{
+        margin-top: 30%;
+    }
+    .bg-text h3{
+        font-size: 40px;
+         
+     }
+    .bg-text p{
+        font-size: 20px; 
+     } 
+     .search h3 {
+        font-size: 18px;
+     
+    }
+     #blog{ 
+        margin-top: 6%;  
+     }
+     .blog-heading p{
+        font-size: 17px;
+        margin: 0 20% 0 20%; 
+    } 
+ .activity-text{  
+    margin-top: -48%;
+ 
+}
+.submit{
+    margin-top: 5%; 
+    width: 80%;
+    padding: 5px 0;
+}
+.gellary-text p {
+    font-size: 16px;
+}
+.luxury-heading h3{
+    font-size: 120px; 
+}
+.luxury-heading p{
+    font-size: 50px; 
+}
+.find{ 
+    padding: 40px 25px; 
+}
+ 
+.contact-text p {
+    font-size: 15px;
+}
+.form-inline{
+    margin-left: 10px!important;
+}
+.form-inline input{
+    width: 200px!important;
+}
+}
+@media(min-width:1199px){ 
+    .navbar-nav li a{ 
+        margin: 0 20px;
+    }
+    .bg-text h3{
+        font-size: 45px; 
+     }
+    .bg-text p{
+        font-size: 22px; 
+     } 
+      .blog-heading p{
+          margin: 0 25%;
+      }
+    .gellary-text p{
+        font-size: 15px; 
+    }
+    .activity-text p{
+        font-size: 15px;
+        
+    }
+    .deal-heading p {
+        margin: 0 25%;
+    }
+    .search{
+        margin-top: 20%; 
+   }
+   .search h3{
+        padding-top: 8%;
+   }
+   .search form input{
+    width: 350px;
+    height: 40px;
+}
+   .search form input{ 
+         margin-top: 5%;
+   }
+   .search{  
+    width: 400px;
+    height: 450px; 
+}
+ 
+#blog{ 
+    margin-top: 6%;  
+ }
+ .gallery-heading h3{ 
+    font-size: 35px;
+    padding-top: 60px;
+}
+.book{
+    margin-top: 10%;
+    padding: 10px 0;
+   
+}
+.activity-text{  
+    margin-top: -46%;
+ 
+}
+.luxury-heading h3 {
+    font-size: 146px;
+}
+.contact-text p{
+    font-size: 16px;
+}
+}
+ 
+ 
